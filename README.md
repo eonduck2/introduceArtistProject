@@ -16,6 +16,7 @@
 3. JS (Vanila)
 
 ## 핵심 Branches 설명
+- **main**: superBranch에게 최종적으로 merging될 최상위 브랜치
 - **superBranch**: 팀원들의 작업 결과가 merging될 상위 브랜치
 - **Alice**: 팀원 백지원의 workspace
 - **JaeMin**: 팀원 황재민의 workspace
