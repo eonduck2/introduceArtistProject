@@ -15,7 +15,7 @@
 2. CSS
 3. JS (Vanila)
 
-## Branches 해설지
+## Branch 해설지
 - **superBranch**: 팀원들의 기본 workspace가 되는 브랜치
 - // **example**: ex) 사운드 관련 기능을 추가적으로 구현하기 위한 브랜치(예시)
 
